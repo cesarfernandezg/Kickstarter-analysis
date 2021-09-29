@@ -17,7 +17,7 @@ But twe outcome was the expected. After all the analysis using the countifs form
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90527537/135201097-63166ea2-cff8-44d6-b0b2-fe8c7af6f779.png)
 
 # Questions
-## > 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+## >What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 May is the month with the most successful plays. So if Louise is looking to launch a new play, she needs to launch on May in order to have a better successul rate.
 Also, since July the successful amount of plays went down and the failed went up, maybe is because of the season. When it's holiday season successfull plays tends to descend, like in December.
 
