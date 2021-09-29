@@ -13,11 +13,19 @@ For the second part of the analysis it was requested to count the number of succ
 My problem was when I wanted to determine the dollar amount ranges, so I dit it manually. See figure 2
 ![Screen Shot 2021-09-28 at 22 57 02](https://user-images.githubusercontent.com/90527537/135200888-f07c5bad-28b6-442d-8328-586765e767f7.png)
 
+But twe outcome was the expected. After all the analysis using the countifs formula I made a line chart to visualize the relationship between the goal amount ranges and the percentage of successful, failed, or canceled plays.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90527537/135201097-63166ea2-cff8-44d6-b0b2-fe8c7af6f779.png)
 
+# Questions
+## > 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+May is the month with the most successful plays. So if Louise is looking to launch a new play, she needs to launch on May in order to have a better successul rate.
+Also, since July the successful amount of plays went down and the failed went up, maybe is because of the season. When it's holiday season successfull plays tends to descend, like in December.
 
+## > 2. What can you conclude about the Outcomes based on Goals?
+When the funding goal amount is a lot higher, the percentage failed is higher too. That means that when the goal is lower or the play needs a lower budget the percentage of being successful is better.
 
+## > 3. What are some limitations of this dataset?
+Maybe not limitations, but the way it was captured was not the best because some adjustments had to be made.
 
-
-
-
-Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+## > 4. What are some other possible tables and/or graphs that we could create?
+It would be helpful to Louise if she can get the type of play (musical, comedy, etc.) in order to see which play has the better successful rate.
